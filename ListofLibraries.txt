@@ -1,0 +1,53 @@
+Common libraries
+  sys
+  os
+  datetime
+  dill
+  yaml
+  logging
+  
+ Database
+  
+  
+Machine Learning Libraries
+  Pandas
+  Numpy
+  Matplotlib
+  Seaborn
+  Sklearn
+    - sklearn.pipeline import Pipeline
+    - sklearn.metrics import f1_score, precision_score, recall_score, classification_report, confusion_matrix, accuracy_score
+    - preprocessing
+    - sklearn.model_selection import train_test_split
+    - sklearn.linear_model import LogisticRegression
+    - sklearn.naive_bayes import GaussianNB
+    - sklearn.ensemble import RandomForestClassifier
+    - sklearn.neighbors import KNeighborsClassifier
+    - sklearn.tree import DecisionTreeClassifier
+    - sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer,TfidfTransformer
+    
+  Scikit-learn
+  Scipy
+    - scipy.stats
+  
+ Apache Spark
+ 
+  
+  
+ Computer Vision liraries
+ 
+ 
+ NLP libraries
+ re
+ spacy
+ 
+ nltk
+ fastai
+  - fastai.test
+  - 
+ 
+ Deployment libraries
+   fastapi
+
+
+
